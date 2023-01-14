@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: 
+
+User-agent: *
+Disallow: /news.html
+
+User-agent: *
+Disallow: /newsletter.html
